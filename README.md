@@ -1,2 +1,2 @@
-# marry christmas-project-2021
-Create Marry Crismistmas Project Using HTML CSS Only
+# christmas-tree-project-2021
+Create Christmas Tree Project Using HTML CSS Only
