@@ -1,2 +1,2 @@
-# marry-crismistmas-project-2021
+# marry christmas-project-2021
 Create Marry Crismistmas Project Using HTML CSS Only
