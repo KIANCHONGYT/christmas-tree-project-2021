@@ -16,6 +16,7 @@ h1 {
     transform: scale(0.5, 0.5);
   }
 }
+
 @-moz-keyframes flash {
   10% {
     /* opacity: 0.5; */
